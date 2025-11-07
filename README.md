@@ -2,7 +2,8 @@
 
 This project demonstrates a complete CI (Continuous Integration) pipeline using **Jenkins** and **SonarQube**, running on local Docker containers. The pipeline clones source code from GitHub, performs static code analysis using SonarQube, and builds a Docker image of the application.
 
----
+---<img width="1024" height="1024" alt="ChatGPT Image Nov 7, 2025, 11_44_09 AM" src="https://github.com/user-attachments/assets/8658a89f-5ab0-497a-95da-69f9d344cb42" />
+
 
 ## ✅ What We Did (Step-by-Step Summary)
 
